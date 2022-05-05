@@ -2,6 +2,7 @@ function getHistory() {
     return document.getElementById('history-value').innerText;
 
 }
+//nhggh
 
 function printHistory(num) {
     document.getElementById('history-value').innerText = num;
